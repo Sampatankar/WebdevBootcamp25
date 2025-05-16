@@ -1,0 +1,1 @@
+A recap of the Web Dev Bootcamp course from Dr. Angela Yu at London App Brewery (via Udemy).  A whistlestop recap as it's just about remembering what I have covered several times since 2019 and learning what tech has changed.  Also used to host my online project pages.
