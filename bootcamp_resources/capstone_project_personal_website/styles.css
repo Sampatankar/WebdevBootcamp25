@@ -1,0 +1,11 @@
+.header-container {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+.index-blurb-container {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
