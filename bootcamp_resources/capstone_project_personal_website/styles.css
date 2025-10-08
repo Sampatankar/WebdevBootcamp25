@@ -4,8 +4,28 @@
     width: 100%;
 }
 
+.subheader-container {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+.links-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    gap: 40px;
+}
+
+.icon {
+    width: 32px;
+    height: 32px;
+}
+
 .index-blurb-container {
     display: flex;
     justify-content: center;
     text-align: center;
 }
+
