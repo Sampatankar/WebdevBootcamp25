@@ -29,3 +29,35 @@
     text-align: center;
 }
 
+.poppins-header {
+  font-family: "Poppins", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+  font-size: 72px;
+}
+
+.poppins-tagline {
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 20px;
+}
+
+.arimo-medium {
+  font-family: "Arimo", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.hero-container {
+    background-image: url("assets/index-background-peakdistrict.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+
+h1, h2 {
+    color: white;
+}
+
