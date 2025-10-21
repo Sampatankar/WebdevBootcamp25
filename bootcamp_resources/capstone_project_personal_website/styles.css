@@ -24,7 +24,7 @@
 }
 
 .index-blurb-container {
-    display: flex;
+    /* display: flex; */
     justify-content: center;
     text-align: center;
 }
